@@ -1,12 +1,6 @@
-===Addon Paypal and Stripe With Contact Form 7===
-Tested up to: 5.4
-Tags: contact form 7 save, contact form 7 db,contact form 7 Paypal,contact form 7 Stripe
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
+<h1>Addon Paypal and Stripe With Contact Form 7</h1>
 
-== Description ==
-
-**Contact Form 7 With Paypal and Stripe** allow you to setup custom amount with paypal extension to support. Now days Paypal and Stripe payment gateway is much popuplar and safe for get payment. as well contact form 7 for paypal and stripe integrate libary for make best feature in your [WordPress](https://en.wikipedia.org/wiki/WordPress) site.
+**[Contact Form 7 With Paypal and Stripe](https://wordpress.org/plugins/addon-paypal-with-contact-form-7/)** allow you to setup custom amount with paypal extension to support. Now days Paypal and Stripe payment gateway is much popuplar and safe for get payment. as well contact form 7 for paypal and stripe integrate libary for make best feature in your [WordPress](https://en.wikipedia.org/wiki/WordPress) site.
 
 [Demo](http://oceanwebguru.com/oceanwebdemo/my-test/) 
 
@@ -30,7 +24,7 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
 > * Easy to use
 
 <h3>How to use Contact Form 7 With Paypal</h3>
-<iframe width="640" height="345" src="https://www.youtube.com/embed/WbTpRKxSg_g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <h4>Save Paypal and Stripe Record In DB</h4>
 By the way on this plugin after payment data save in Database so site owner can be check want is paypal response there. so easy to check who did pay money.
