@@ -1,0 +1,29 @@
+table.cf7wpay_paypal_main {
+    width: 100%;
+    display: inline-block;
+    float: left;
+}
+table.cf7wpay_paypal_main tbody {
+    width: 100%;
+    display: inline-block;
+    float: left;
+}
+table.cf7wpay_paypal_main tr {
+    margin: 20px 0px;
+    display: block;
+}
+table.cf7wpay_paypal_main tr th {
+    width: 30%;
+    display: inline-block;
+    text-align: left;
+}
+table.cf7wpay_paypal_main tr td {
+    width: 40%;
+    display: inline-block;
+}
+table.cf7wpay_paypal_main input {
+    border: 1px solid #a5a2a2;
+}
+.cf7wpay_trandetais td {
+    width: 150px;
+}
